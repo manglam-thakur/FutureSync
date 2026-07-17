@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+
+# Backend
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# React
+**/node_modules/
+**/dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
